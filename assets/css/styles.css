@@ -1474,19 +1474,19 @@ button {
 }
 
 .bg-\[url\(\'\.\.\/images\/hero-bg-img\.png\'\)\] {
-  background-image: url('../images/hero-bg-img.png');
+  background-image: url('hero-bg-img.png');
 }
 
 .bg-\[url\(\'\.\.\/images\/about-me-bg\.png\'\)\] {
-  background-image: url('../images/about-me-bg.png');
+  background-image: url('about-me-bg.png');
 }
 
 .bg-\[url\(\'\.\.\/images\/contact-bg\.png\'\)\] {
-  background-image: url('../images/contact-bg.png');
+  background-image: url('contact-bg.png');
 }
 
 .bg-\[url\(\'\.\.\/images\/footer-bg\.png\'\)\] {
-  background-image: url('../images/footer-bg.png');
+  background-image: url('footer-bg.png');
 }
 
 .bg-cover {
@@ -3628,11 +3628,11 @@ button.is-checked {
 }
 
 .dark .dark\:bg-\[url\(\'\.\.\/images\/home2-hero-bg-dark\.png\'\)\] {
-  background-image: url('../images/home2-hero-bg-dark.png');
+  background-image: url('home2-hero-bg-dark.png');
 }
 
 .dark .dark\:bg-\[url\(\'\.\.\/images\/hero-bg-img-dark\.png\'\)\] {
-  background-image: url('../images/hero-bg-img-dark.png');
+  background-image: url('hero-bg-img-dark.png');
 }
 
 .dark .dark\:bg-none {
@@ -3640,11 +3640,11 @@ button.is-checked {
 }
 
 .dark .dark\:bg-\[url\(\'\.\.\/images\/contact-bg-dark\.png\'\)\] {
-  background-image: url('../images/contact-bg-dark.png');
+  background-image: url('contact-bg-dark.png');
 }
 
 .dark .dark\:bg-\[url\(\'\.\.\/images\/footer-bg-dark\.png\'\)\] {
-  background-image: url('../images/footer-bg-dark.png');
+  background-image: url('footer-bg-dark.png');
 }
 
 .dark .dark\:text-white {
